@@ -1,0 +1,19 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+label, input {
+	display: table-cell;
+	margin-bottom: 20px;
+}
+
+label {
+	padding-right: 10px;
+}
+ 
+
+
